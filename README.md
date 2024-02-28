@@ -9,6 +9,7 @@ https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WebServer/src/ES
 https://github.com/esp8266/Arduino/blob/master/cores/esp8266/FS.h
 
 Silahkan upload file html ke esp8266
+
 https://randomnerdtutorials.com/install-esp8266-filesystem-uploader-arduino-ide/
 
 Komponen yang dibutuhkan:
