@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simpel ESP8266 Web Server</title>
+  </head>
+  <body>
+    <h1>ESP8266 Web Server</h1>
+    <p>LED Status: <span id="ledStatus">Tidak diketahui</span></p>
+    <form action="/LEDOn">
+      <button type="submit">LED On</button>
+    </form>
+    <form action="/LEDOff">
+      <button type="submit">LED Off</button>
+    </form>
+    <script>
+      function updateStatus(status) {
+        document.getElementById('ledStatus').innerText = status;
+      }
+    </script>
+  </body>
+</html>
