@@ -2,10 +2,13 @@
 
 Silahkan pasang kode cpp ke esp8266 via Arduino IDE
 
-LIbrary yang dibutuhkan:
+Library yang dibutuhkan:
 https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/src/WiFiClient.h
 https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WebServer/src/ESP8266WebServer.h
 https://github.com/esp8266/Arduino/blob/master/cores/esp8266/FS.h
+
+Silahkan upload file html ke esp8266
+https://randomnerdtutorials.com/install-esp8266-filesystem-uploader-arduino-ide/
 
 Komponen yang dibutuhkan:
 - LED 1 biji
