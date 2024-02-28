@@ -12,3 +12,4 @@ Komponen yang dibutuhkan:
 - Mini breadboard 1 biji
 - Resistor 330ohm 1bj
 - Kabel male to male / male to female / female to female secukupnya
+- Untuk jaringan menggunakan jaringan lokal share wifi biasa dari ESP 8266
